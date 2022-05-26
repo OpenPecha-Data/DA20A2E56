@@ -1,0 +1,22 @@
+id: DA20A2E56
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-06T09:35:48+00:00'
+last_modified: '2022-05-26T14:18:57.808961+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '2985':
+      image_group_id: I1PD95885
+      title: སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མའི་སྒྲུབ་ཐབས།
+      total_pages: 1648
+      order: 40
+      base_file: 2985.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
